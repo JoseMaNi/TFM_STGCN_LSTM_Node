@@ -1,6 +1,10 @@
 # TFM_STGCN_LSTM_Node
 Dataset y modelado de una red convolucional de grafos con LSTM por nodo
+
+
 Abstract
+
+
 Los accidentes de tráfico en entornos urbanos plantea un desafío significativo para la
 seguridad vial y la gestión eficiente del tráfico. La complejidad de la red vial y las
 diversas condiciones ambientales complican la predicción precisa de estos eventos.
